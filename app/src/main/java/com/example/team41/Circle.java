@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 package com.example.team41;
 
-public class Circle extends Shape {
+public class circle extends Shape {
 }
+
